@@ -469,7 +469,7 @@ python github-analyzer-mcp.py
 创建：
 
 * Agent-A（项目概览分析）
-* Agent-B（源码深度分析）
+* Agent-B（源码审计助手）
 
 ---
 
